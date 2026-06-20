@@ -20,16 +20,16 @@ I'm building this as my personal project for a dataset based on the record of US
 - **Target:** `readmitted` (Yes/No) and `days_to_readmit` (if applicable).
 
 # Roadmap: 
-Phase 1 → Problem Understanding & Dataset Acquisition
-Phase 2 → Exploratory Data Analysis (EDA)
-Phase 3 → Data Cleaning & Preprocessing
-Phase 4 → Feature Engineering
-Phase 5 → Model Building (Track A: Classification)
-Phase 6 → Model Building (Track B: Regression)
-Phase 7 → Hyperparameter Tuning
-Phase 8 → Model Evaluation & Comparison
-Phase 9 → Interpretation (SHAP values, feature importance)
-Phase 10 → Final Report & Insights
+* Phase 1 → Problem Understanding & Dataset Acquisition
+* Phase 2 → Exploratory Data Analysis (EDA)
+* Phase 3 → Data Cleaning & Preprocessing
+* Phase 4 → Feature Engineering
+* Phase 5 → Model Building (Track A: Classification)
+* Phase 6 → Model Building (Track B: Regression)
+* Phase 7 → Hyperparameter Tuning
+* Phase 8 → Model Evaluation & Comparison
+* Phase 9 → Interpretation (SHAP values, feature importance)
+* Phase 10 → Final Report & Insights
 
 
 
