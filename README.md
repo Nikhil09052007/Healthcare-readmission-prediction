@@ -1,3 +1,8 @@
+# Hello viewer, in case if someone is seeing this:
+
+**To prevent the complexities, I have made a specific dir for the better readabiltiy of the steps that I actually performed carrying the logic behind the logic and codes.** It is named as "docs", just left to your screen.
+
+
 As this will contain all the information of project and an overall idea about the sceenarios which are running behind the code and dataset.
 
 I'm building this as my personal project for a dataset based on the record of USA's Hospital Readmission.
@@ -19,8 +24,8 @@ I'm building this as my personal project for a dataset based on the record of US
 - **Features:** Lab results, medications, diagnoses, hospital admission/discharge info.
 - **Target:** `readmitted` (Yes/No) and `days_to_readmit` (if applicable).
 
-# Roadmap: 
-* Phase 1 → Problem Understanding & Dataset Acquisition
+# Roadmap: Docs are organised in the similar format too. 
+* Phase 1 → Problem Understanding & Dataset Acquisition (Done here already and data is in dir.)
 * Phase 2 → Exploratory Data Analysis (EDA)
 * Phase 3 → Data Cleaning & Preprocessing
 * Phase 4 → Feature Engineering

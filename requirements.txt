@@ -1,5 +1,10 @@
+# I'm using python's current version.
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
+xgboost
+lightgbm
+shap
+ucimlrepo #I'm using the dataset from uciml repo.
