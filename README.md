@@ -38,20 +38,5 @@ I'm building this as my personal project for a dataset based on the record of US
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I'm keep each directory and files speately that a simpler pipeline structure could be represented for the whole workflow.
+I'll keep each directory and files speately that a simpler pipeline structure could be represented for the whole workflow.
 
